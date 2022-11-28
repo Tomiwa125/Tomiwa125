@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomiwa
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Big Data
+- 🌱 I’m a Data Analyst
 - 💞️ I’m looking to collaborate on projects to help improve my skills
 
 <!---
